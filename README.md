@@ -14,7 +14,7 @@ Conhecimento em PHP
 
 Ambiente de desenvolvimento instalado : Apache + PHP5.4+ + PERL  e etc
 
-Ambinente de teste instalado : PHPUNIT
+Ambiente de teste instalado : PHPUNIT
 
 Disponibilidade para de 1h no horario marcado
 
